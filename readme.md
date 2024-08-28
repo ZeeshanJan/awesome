@@ -1,30 +1,18 @@
 <div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 	<br>
 	<br>
 	<div>
-		<sub>Check out my latest app</sub>
+		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/one-task">One Task</a>
+			<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
 			<br>
-			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
+			<sup>Customize the gap between menu bar items on macOS</sup>
 		</h2>
 	</div>
-	<br>
-	<br>
-	<br>
 	<br>
 	<br>
 	<br>
@@ -44,11 +32,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
-		</a>
-		<br>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -61,31 +44,6 @@
 			</div>
 		</a>
 		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
-			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://serpapi.com#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
-			</div>
-			<b>API to get search engine results with ease.</b>
-		</a>
-		<a href="https://serpapi.com#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
-			</div>
-			<b>API to get search engine results with ease.</b>
-		</a>
-		<br>
-		<br>
 		<br>
 		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
 			<picture>
@@ -97,6 +55,37 @@
 		<br>
 		<br>
 		<br>
+		<a href="https://logto.io/?ref=sindre">
+			<div>
+				<picture>
+					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
+					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
+					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
+				</picture>
+			</div>
+			<b>The better identity infrastructure for developers</b>
+			<div>
+				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
+			<div>
+				<picture>
+					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
+					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
+					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
+				</picture>
+			</div>
+			<b>The development platform for building type-safe distributed systems</b>
+			<div>
+				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -104,32 +93,19 @@
 	<br>
 	<br>
 </div>
-
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
 </p>
-
 <br>
-
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
-
 <br>
-
-<div align="center">
-	<b><a href="https://t.me/sindresorhuschat/70">Telegram group</a></b>
-</div>
-
-<br>
-
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
 </p>
+<br>
+<br>
 <br>
 
 ## Contents
@@ -161,6 +137,20 @@
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+
+<br>
+<hr>
+<br>
+<br>
+<div align="center">
+	<a href="https://app.codecrafters.io/join?via=sindre">
+		<img src="https://github.com/sindresorhus/awesome/assets/170270/ddb75194-c7e3-4720-861e-37d3b0394f0f" width="900">
+	</a>
+</div>
+<br>
+<br>
+<hr>
+<br>
 
 ## Platforms
 
@@ -205,7 +195,7 @@
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
@@ -219,6 +209,9 @@
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
+- [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+- [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+- [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 
 ## Programming Languages
 
@@ -301,6 +294,18 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 
+<br>
+<hr>
+<br>
+<br>
+<a href="https://vshymanskyy.github.io/StandWithUkraine">
+	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+</a>
+<br>
+<br>
+<hr>
+<br>
+
 ## Front-End Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
@@ -348,7 +353,7 @@
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 - [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
-- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
+- [Ionic Framework](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
@@ -385,6 +390,7 @@
 - [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
 - [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 - [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+- [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ## Back-End Development
 
@@ -418,6 +424,8 @@
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+- [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 
 ## Computer Science
 
@@ -469,6 +477,7 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
 ## Theory
 
@@ -586,6 +595,8 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+- [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
+- [Neon](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
 ## Media
 
@@ -650,6 +661,7 @@
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+- [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 
 ## Content Management Systems
 
@@ -709,7 +721,6 @@
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
@@ -732,6 +743,7 @@
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
 ## Health and Social Science
 
@@ -889,8 +901,11 @@
 - [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+- [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 
 ## Related
 
